@@ -1,0 +1,30 @@
+# site title
+title: HugeTerry | notes
+
+# user name or organization name
+user: hugeterry
+
+# issue repository
+repository: Dyrwood
+
+# multi-author
+authors: hugeterry
+
+# token
+# token should be separated by '#'
+# example: 5#c31bffc137f44faf7efc4a84da827g7ca2cfeaa
+token: e#4c42bc3f9cee8d22f01dca9b86cf5dd859e9ffb
+
+# posts per page
+perpage: 10
+
+
+# advance config
+
+# organization repository (?)
+organization: false
+
+# post order
+# order by create time" or "update time"
+# 'UPDATED_AT' or 'CREATED_AT'
+order: 'CREATED_AT'
