@@ -3,7 +3,7 @@
 记载着我平时的笔记：[HugeTerry | notes](http://notes.hugeterry.cn/)
 
 ## Related
-`Dyrwood`，译为鹿林，自己很喜欢鹿，鹿林指鹿歇息成长的地方，比喻自己喜欢通过这个地方这些笔记成长起来
+`Dyrwood`，译为鹿林，自己喜欢鹿，鹿林指鹿歇息成长的地方，象征自己希望通过这个地方这些笔记成长起来
 
 ## License
     Copyright 2018 HugeTerry.
